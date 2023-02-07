@@ -1,0 +1,27 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "learning fullstack backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trankhai1478/BackEnd_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "khai tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trankhai1478/BackEnd_nodejs/issues"
+  },
+  "homepage": "https://github.com/trankhai1478/BackEnd_nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
